@@ -1,0 +1,2 @@
+Q: What is Java?\nA: Java is a high-level programming language.\n
+Q: What is a class in Java?\nA: A class is a blueprint for creating objects.\n
